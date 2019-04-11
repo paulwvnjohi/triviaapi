@@ -1,2 +1,0 @@
-# triviaapi
-Created with CodeSandbox
